@@ -1,0 +1,271 @@
+{
+  "keys": "/Users/xiaobao/project/midway-project/src/config/config.default.ts",
+  "middleware": "/Users/xiaobao/project/midway-project/src/config/config.default.ts",
+  "midwayFeature": {
+    "replaceEggLogger": "/Users/xiaobao/project/midway-project/src/config/config.default.ts"
+  },
+  "security": {
+    "csrf": "/Users/xiaobao/project/midway-project/src/config/config.local.ts",
+    "domainWhiteList": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/Users/xiaobao/project/midway-project/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/xiaobao/project/midway-project/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/xiaobao/project/midway-project/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/xiaobao/project/midway-project/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/xiaobao/project/midway-project/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/xiaobao/project/midway-project/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/xiaobao/project/midway-project/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/xiaobao/project/midway-project/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/xiaobao/project/midway-project/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/xiaobao/project/midway-project/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/xiaobao/project/midway-project/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/xiaobao/project/midway-project/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/xiaobao/project/midway-project/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/xiaobao/project/midway-project/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/xiaobao/project/midway-project/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/xiaobao/project/midway-project/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/xiaobao/project/midway-project/node_modules/egg-i18n/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/xiaobao/project/midway-project/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/xiaobao/project/midway-project/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/xiaobao/project/midway-project/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/xiaobao/project/midway-project/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/xiaobao/project/midway-project/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/xiaobao/project/midway-project/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/xiaobao/project/midway-project/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/xiaobao/project/midway-project/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/xiaobao/project/midway-project/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/xiaobao/project/midway-project/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/xiaobao/project/midway-project/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/xiaobao/project/midway-project/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/xiaobao/project/midway-project/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/xiaobao/project/midway-project/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/xiaobao/project/midway-project/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/xiaobao/project/midway-project/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/xiaobao/project/midway-project/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "view": {
+    "root": "/Users/xiaobao/project/midway-project/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/xiaobao/project/midway-project/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/xiaobao/project/midway-project/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/xiaobao/project/midway-project/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/xiaobao/project/midway-project/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+  "name": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "version": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "description": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "private": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "@midwayjs/bootstrap": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "@midwayjs/core": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "@midwayjs/web": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "@midwayjs/decorator": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "egg": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "@midwayjs/cli": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "@midwayjs/egg-ts-helper": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "@midwayjs/luckyeye": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "@midwayjs/mock": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "@types/jest": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "@types/node": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "cross-env": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "mwts": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "jest": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "ts-jest": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "typescript": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "stop": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "start_build": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "dev": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "test": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "cov": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "lint": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "lint:fix": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "ci": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "build": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "check": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js"
+    },
+    "midway-bin-clean": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "midway-luckyeye": {
+      "packages": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "url": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "license": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/xiaobao/project/midway-project/node_modules/@midwayjs/web/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "strict": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "depth": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "env": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "level": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/xiaobao/project/midway-project/node_modules/@midwayjs/web/config/config.default.js",
+    "coreLogName": "/Users/xiaobao/project/midway-project/node_modules/@midwayjs/web/config/config.default.js",
+    "agentLogName": "/Users/xiaobao/project/midway-project/node_modules/@midwayjs/web/config/config.default.js",
+    "errorLogName": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "logging": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "port": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+  "pluginOverwrite": "/Users/xiaobao/project/midway-project/node_modules/@midwayjs/web/config/config.default.js",
+  "alinode": {
+    "logdir": "/Users/xiaobao/project/midway-project/node_modules/@midwayjs/web/config/config.default.js",
+    "error_log": "/Users/xiaobao/project/midway-project/node_modules/@midwayjs/web/config/config.default.js",
+    "packages": "/Users/xiaobao/project/midway-project/node_modules/@midwayjs/web/config/config.default.js"
+  }
+}

@@ -1,0 +1,370 @@
+[
+  {
+    "name": "Process Start",
+    "start": 1629965420333,
+    "end": 1629965423884,
+    "duration": 3551,
+    "pid": 88788,
+    "index": 0
+  },
+  {
+    "name": "Application Start",
+    "start": 1629965423884,
+    "end": 1629965424097,
+    "duration": 213,
+    "pid": 88788,
+    "index": 1
+  },
+  {
+    "name": "Load Plugin",
+    "start": 1629965423889,
+    "end": 1629965423897,
+    "duration": 8,
+    "pid": 88788,
+    "index": 2
+  },
+  {
+    "name": "Load Config",
+    "start": 1629965423897,
+    "end": 1629965423924,
+    "duration": 27,
+    "pid": 88788,
+    "index": 3
+  },
+  {
+    "name": "Require(0) config/config.default.ts",
+    "start": 1629965423898,
+    "end": 1629965423898,
+    "duration": 0,
+    "pid": 88788,
+    "index": 4
+  },
+  {
+    "name": "Require(1) config/config.local.ts",
+    "start": 1629965423898,
+    "end": 1629965423898,
+    "duration": 0,
+    "pid": 88788,
+    "index": 5
+  },
+  {
+    "name": "Require(2) /Users/xiaobao/project/midway-project/node_modules/egg-session/config/config.default.js",
+    "start": 1629965423898,
+    "end": 1629965423899,
+    "duration": 1,
+    "pid": 88788,
+    "index": 6
+  },
+  {
+    "name": "Require(3) /Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.default.js",
+    "start": 1629965423899,
+    "end": 1629965423900,
+    "duration": 1,
+    "pid": 88788,
+    "index": 7
+  },
+  {
+    "name": "Require(4) /Users/xiaobao/project/midway-project/node_modules/egg-jsonp/config/config.default.js",
+    "start": 1629965423900,
+    "end": 1629965423901,
+    "duration": 1,
+    "pid": 88788,
+    "index": 8
+  },
+  {
+    "name": "Require(5) /Users/xiaobao/project/midway-project/node_modules/egg-onerror/config/config.default.js",
+    "start": 1629965423901,
+    "end": 1629965423902,
+    "duration": 1,
+    "pid": 88788,
+    "index": 9
+  },
+  {
+    "name": "Require(6) /Users/xiaobao/project/midway-project/node_modules/egg-i18n/config/config.default.js",
+    "start": 1629965423903,
+    "end": 1629965423904,
+    "duration": 1,
+    "pid": 88788,
+    "index": 10
+  },
+  {
+    "name": "Require(7) /Users/xiaobao/project/midway-project/node_modules/egg-schedule/config/config.default.js",
+    "start": 1629965423904,
+    "end": 1629965423905,
+    "duration": 1,
+    "pid": 88788,
+    "index": 11
+  },
+  {
+    "name": "Require(8) /Users/xiaobao/project/midway-project/node_modules/egg-multipart/config/config.default.js",
+    "start": 1629965423906,
+    "end": 1629965423906,
+    "duration": 0,
+    "pid": 88788,
+    "index": 12
+  },
+  {
+    "name": "Require(9) /Users/xiaobao/project/midway-project/node_modules/egg-view/config/config.default.js",
+    "start": 1629965423907,
+    "end": 1629965423908,
+    "duration": 1,
+    "pid": 88788,
+    "index": 13
+  },
+  {
+    "name": "Require(10) /Users/xiaobao/project/midway-project/node_modules/egg/config/config.default.js",
+    "start": 1629965423909,
+    "end": 1629965423909,
+    "duration": 0,
+    "pid": 88788,
+    "index": 14
+  },
+  {
+    "name": "Require(11) /Users/xiaobao/project/midway-project/node_modules/@midwayjs/web/config/config.default.js",
+    "start": 1629965423912,
+    "end": 1629965423919,
+    "duration": 7,
+    "pid": 88788,
+    "index": 15
+  },
+  {
+    "name": "Require(12) config/config.default.ts",
+    "start": 1629965423920,
+    "end": 1629965423920,
+    "duration": 0,
+    "pid": 88788,
+    "index": 16
+  },
+  {
+    "name": "Require(13) /Users/xiaobao/project/midway-project/node_modules/egg-security/config/config.local.js",
+    "start": 1629965423920,
+    "end": 1629965423921,
+    "duration": 1,
+    "pid": 88788,
+    "index": 17
+  },
+  {
+    "name": "Require(14) /Users/xiaobao/project/midway-project/node_modules/egg-view/config/config.local.js",
+    "start": 1629965423921,
+    "end": 1629965423922,
+    "duration": 1,
+    "pid": 88788,
+    "index": 18
+  },
+  {
+    "name": "Require(15) /Users/xiaobao/project/midway-project/node_modules/egg/config/config.local.js",
+    "start": 1629965423922,
+    "end": 1629965423923,
+    "duration": 1,
+    "pid": 88788,
+    "index": 19
+  },
+  {
+    "name": "Require(16) config/config.local.ts",
+    "start": 1629965423923,
+    "end": 1629965423923,
+    "duration": 0,
+    "pid": 88788,
+    "index": 20
+  },
+  {
+    "name": "Before Start in node_modules/@midwayjs/web/dist/framework/web.js:45:22",
+    "start": 1629965423925,
+    "end": 1629965423957,
+    "duration": 32,
+    "pid": 88788,
+    "index": 21
+  },
+  {
+    "name": "Before Start in node_modules/@midwayjs/web/dist/base.js:228:22",
+    "start": 1629965423925,
+    "end": 1629965424077,
+    "duration": 152,
+    "pid": 88788,
+    "index": 22
+  },
+  {
+    "name": "Load extend/agent.js",
+    "start": 1629965423958,
+    "end": 1629965423991,
+    "duration": 33,
+    "pid": 88788,
+    "index": 23
+  },
+  {
+    "name": "Require(17) /Users/xiaobao/project/midway-project/node_modules/egg-security/app/extend/agent.js",
+    "start": 1629965423959,
+    "end": 1629965423960,
+    "duration": 1,
+    "pid": 88788,
+    "index": 24
+  },
+  {
+    "name": "Require(18) /Users/xiaobao/project/midway-project/node_modules/egg-schedule/app/extend/agent.js",
+    "start": 1629965423960,
+    "end": 1629965423987,
+    "duration": 27,
+    "pid": 88788,
+    "index": 25
+  },
+  {
+    "name": "Require(19) /Users/xiaobao/project/midway-project/node_modules/egg-mock/app/extend/agent.js",
+    "start": 1629965423987,
+    "end": 1629965423989,
+    "duration": 2,
+    "pid": 88788,
+    "index": 26
+  },
+  {
+    "name": "Require(20) /Users/xiaobao/project/midway-project/node_modules/@midwayjs/web/app/extend/agent.js",
+    "start": 1629965423989,
+    "end": 1629965423990,
+    "duration": 1,
+    "pid": 88788,
+    "index": 27
+  },
+  {
+    "name": "Load extend/context.js",
+    "start": 1629965423991,
+    "end": 1629965424067,
+    "duration": 76,
+    "pid": 88788,
+    "index": 28
+  },
+  {
+    "name": "Require(21) /Users/xiaobao/project/midway-project/node_modules/egg-security/app/extend/context.js",
+    "start": 1629965423991,
+    "end": 1629965424004,
+    "duration": 13,
+    "pid": 88788,
+    "index": 29
+  },
+  {
+    "name": "Require(22) /Users/xiaobao/project/midway-project/node_modules/egg-jsonp/app/extend/context.js",
+    "start": 1629965424004,
+    "end": 1629965424007,
+    "duration": 3,
+    "pid": 88788,
+    "index": 30
+  },
+  {
+    "name": "Require(23) /Users/xiaobao/project/midway-project/node_modules/egg-i18n/app/extend/context.js",
+    "start": 1629965424007,
+    "end": 1629965424008,
+    "duration": 1,
+    "pid": 88788,
+    "index": 31
+  },
+  {
+    "name": "Require(24) /Users/xiaobao/project/midway-project/node_modules/egg-multipart/app/extend/context.js",
+    "start": 1629965424009,
+    "end": 1629965424061,
+    "duration": 52,
+    "pid": 88788,
+    "index": 32
+  },
+  {
+    "name": "Require(25) /Users/xiaobao/project/midway-project/node_modules/egg-view/app/extend/context.js",
+    "start": 1629965424062,
+    "end": 1629965424063,
+    "duration": 1,
+    "pid": 88788,
+    "index": 33
+  },
+  {
+    "name": "Require(26) /Users/xiaobao/project/midway-project/node_modules/egg/app/extend/context.js",
+    "start": 1629965424064,
+    "end": 1629965424065,
+    "duration": 1,
+    "pid": 88788,
+    "index": 34
+  },
+  {
+    "name": "Require(27) /Users/xiaobao/project/midway-project/node_modules/@midwayjs/web/app/extend/context.js",
+    "start": 1629965424065,
+    "end": 1629965424067,
+    "duration": 2,
+    "pid": 88788,
+    "index": 35
+  },
+  {
+    "name": "Load agent.js",
+    "start": 1629965424067,
+    "end": 1629965424076,
+    "duration": 9,
+    "pid": 88788,
+    "index": 36
+  },
+  {
+    "name": "Require(28) /Users/xiaobao/project/midway-project/node_modules/egg-security/agent.js",
+    "start": 1629965424068,
+    "end": 1629965424069,
+    "duration": 1,
+    "pid": 88788,
+    "index": 37
+  },
+  {
+    "name": "Require(29) /Users/xiaobao/project/midway-project/node_modules/egg-onerror/agent.js",
+    "start": 1629965424069,
+    "end": 1629965424069,
+    "duration": 0,
+    "pid": 88788,
+    "index": 38
+  },
+  {
+    "name": "Require(30) /Users/xiaobao/project/midway-project/node_modules/egg-schedule/agent.js",
+    "start": 1629965424070,
+    "end": 1629965424072,
+    "duration": 2,
+    "pid": 88788,
+    "index": 39
+  },
+  {
+    "name": "Require(31) /Users/xiaobao/project/midway-project/node_modules/midway-schedule/agent.js",
+    "start": 1629965424072,
+    "end": 1629965424073,
+    "duration": 1,
+    "pid": 88788,
+    "index": 40
+  },
+  {
+    "name": "Require(32) /Users/xiaobao/project/midway-project/node_modules/egg/agent.js",
+    "start": 1629965424074,
+    "end": 1629965424074,
+    "duration": 0,
+    "pid": 88788,
+    "index": 41
+  },
+  {
+    "name": "Require(33) /Users/xiaobao/project/midway-project/node_modules/@midwayjs/web/agent.js",
+    "start": 1629965424075,
+    "end": 1629965424076,
+    "duration": 1,
+    "pid": 88788,
+    "index": 42
+  },
+  {
+    "name": "Before Start in /Users/xiaobao/project/midway-project/node_modules/egg-schedule/agent.js:12:9",
+    "start": 1629965424076,
+    "end": 1629965424094,
+    "duration": 18,
+    "pid": 88788,
+    "index": 43
+  },
+  {
+    "name": "Did Load in /Users/xiaobao/project/midway-project/node_modules/@midwayjs/web/agent.js:didLoad",
+    "start": 1629965424077,
+    "end": 1629965424094,
+    "duration": 17,
+    "pid": 88788,
+    "index": 44
+  },
+  {
+    "name": "Will Ready in /Users/xiaobao/project/midway-project/node_modules/@midwayjs/web/agent.js:willReady",
+    "start": 1629965424096,
+    "end": 1629965424096,
+    "duration": 0,
+    "pid": 88788,
+    "index": 45
+  }
+]

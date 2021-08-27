@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 31
+    },
+    "auditLog": "/Users/xiaobao/project/midway-project/logs/my-midway-project/.76a21a61b61b25b250b334cff090f60d50146a1b-audit.json",
+    "files": [
+        {
+            "date": 1629962691788,
+            "name": "/Users/xiaobao/project/midway-project/logs/my-midway-project/common-error.log.2021-08-26",
+            "hash": "0263fa8bd33078266b6737fd914808f7"
+        }
+    ]
+}

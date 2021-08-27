@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 31
+    },
+    "auditLog": "/Users/xiaobao/project/midway-project/logs/my-midway-project/.8cc6e8c3dc27f1bf675ad812b57f3cadf0127a19-audit.json",
+    "files": [
+        {
+            "date": 1629962691960,
+            "name": "/Users/xiaobao/project/midway-project/logs/my-midway-project/midway-core.log.2021-08-26",
+            "hash": "982951be80219be3c825eba374580bb3"
+        },
+        {
+            "date": 1630034137711,
+            "name": "/Users/xiaobao/project/midway-project/logs/my-midway-project/midway-core.log.2021-08-27",
+            "hash": "d1accaca5c86b073bd4d10d921b5dbde"
+        }
+    ]
+}

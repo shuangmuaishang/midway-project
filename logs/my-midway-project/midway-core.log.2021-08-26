@@ -1,0 +1,242 @@
+2021-08-26 15:24:51,962 INFO 66758 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 15:24:51,963 INFO 66758 [egg:core] dump config after load, 6ms
+2021-08-26 15:24:52,043 INFO 66758 [egg-multipart] stream mode enable
+2021-08-26 15:24:52,124 INFO 66758 [egg-security] use methodnoallow middleware
+2021-08-26 15:24:52,125 INFO 66758 [egg-security] use noopen middleware
+2021-08-26 15:24:52,126 INFO 66758 [egg-security] use nosniff middleware
+2021-08-26 15:24:52,128 INFO 66758 [egg-security] use xssProtection middleware
+2021-08-26 15:24:52,128 INFO 66758 [egg-security] use xframe middleware
+2021-08-26 15:24:52,130 INFO 66758 [egg-security] use dta middleware
+2021-08-26 15:24:52,130 INFO 66758 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 15:24:52,136 INFO 66758 [egg:core] dump config after ready, 2ms
+2021-08-26 15:25:31,775 INFO 67141 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 15:25:31,775 INFO 67141 [egg:core] dump config after load, 6ms
+2021-08-26 15:25:31,818 INFO 67141 [egg-multipart] stream mode enable
+2021-08-26 15:25:31,859 INFO 67141 [egg-security] use methodnoallow middleware
+2021-08-26 15:25:31,860 INFO 67141 [egg-security] use noopen middleware
+2021-08-26 15:25:31,860 INFO 67141 [egg-security] use nosniff middleware
+2021-08-26 15:25:31,861 INFO 67141 [egg-security] use xssProtection middleware
+2021-08-26 15:25:31,861 INFO 67141 [egg-security] use xframe middleware
+2021-08-26 15:25:31,861 INFO 67141 [egg-security] use dta middleware
+2021-08-26 15:25:31,862 INFO 67141 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 15:25:31,867 INFO 67141 [egg:core] dump config after ready, 2ms
+2021-08-26 15:25:45,244 INFO 67245 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 15:25:45,245 INFO 67245 [egg:core] dump config after load, 6ms
+2021-08-26 15:25:45,288 INFO 67245 [egg-multipart] stream mode enable
+2021-08-26 15:25:45,328 INFO 67245 [egg-security] use methodnoallow middleware
+2021-08-26 15:25:45,328 INFO 67245 [egg-security] use noopen middleware
+2021-08-26 15:25:45,329 INFO 67245 [egg-security] use nosniff middleware
+2021-08-26 15:25:45,329 INFO 67245 [egg-security] use xssProtection middleware
+2021-08-26 15:25:45,329 INFO 67245 [egg-security] use xframe middleware
+2021-08-26 15:25:45,330 INFO 67245 [egg-security] use dta middleware
+2021-08-26 15:25:45,330 INFO 67245 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 15:25:45,335 INFO 67245 [egg:core] dump config after ready, 2ms
+2021-08-26 15:26:02,022 INFO 67387 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 15:26:02,022 INFO 67387 [egg:core] dump config after load, 6ms
+2021-08-26 15:26:02,063 INFO 67387 [egg-multipart] stream mode enable
+2021-08-26 15:26:02,104 INFO 67387 [egg-security] use methodnoallow middleware
+2021-08-26 15:26:02,104 INFO 67387 [egg-security] use noopen middleware
+2021-08-26 15:26:02,105 INFO 67387 [egg-security] use nosniff middleware
+2021-08-26 15:26:02,105 INFO 67387 [egg-security] use xssProtection middleware
+2021-08-26 15:26:02,106 INFO 67387 [egg-security] use xframe middleware
+2021-08-26 15:26:02,106 INFO 67387 [egg-security] use dta middleware
+2021-08-26 15:26:02,106 INFO 67387 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 15:26:02,111 INFO 67387 [egg:core] dump config after ready, 2ms
+2021-08-26 15:29:31,676 INFO 69097 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 15:29:31,676 INFO 69097 [egg:core] dump config after load, 6ms
+2021-08-26 15:29:31,718 INFO 69097 [egg-multipart] stream mode enable
+2021-08-26 15:29:31,757 INFO 69097 [egg-security] use methodnoallow middleware
+2021-08-26 15:29:31,757 INFO 69097 [egg-security] use noopen middleware
+2021-08-26 15:29:31,758 INFO 69097 [egg-security] use nosniff middleware
+2021-08-26 15:29:31,758 INFO 69097 [egg-security] use xssProtection middleware
+2021-08-26 15:29:31,759 INFO 69097 [egg-security] use xframe middleware
+2021-08-26 15:29:31,759 INFO 69097 [egg-security] use dta middleware
+2021-08-26 15:29:31,759 INFO 69097 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 15:29:31,764 INFO 69097 [egg:core] dump config after ready, 2ms
+2021-08-26 15:29:52,355 INFO 69281 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 15:29:52,355 INFO 69281 [egg:core] dump config after load, 5ms
+2021-08-26 15:29:52,396 INFO 69281 [egg-multipart] stream mode enable
+2021-08-26 15:29:52,436 INFO 69281 [egg-security] use methodnoallow middleware
+2021-08-26 15:29:52,436 INFO 69281 [egg-security] use noopen middleware
+2021-08-26 15:29:52,437 INFO 69281 [egg-security] use nosniff middleware
+2021-08-26 15:29:52,437 INFO 69281 [egg-security] use xssProtection middleware
+2021-08-26 15:29:52,438 INFO 69281 [egg-security] use xframe middleware
+2021-08-26 15:29:52,438 INFO 69281 [egg-security] use dta middleware
+2021-08-26 15:29:52,438 INFO 69281 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 15:29:52,443 INFO 69281 [egg:core] dump config after ready, 2ms
+2021-08-26 15:32:39,461 INFO 70601 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 15:32:39,461 INFO 70601 [egg:core] dump config after load, 6ms
+2021-08-26 15:32:39,504 INFO 70601 [egg-multipart] stream mode enable
+2021-08-26 15:32:39,545 INFO 70601 [egg-security] use methodnoallow middleware
+2021-08-26 15:32:39,546 INFO 70601 [egg-security] use noopen middleware
+2021-08-26 15:32:39,546 INFO 70601 [egg-security] use nosniff middleware
+2021-08-26 15:32:39,547 INFO 70601 [egg-security] use xssProtection middleware
+2021-08-26 15:32:39,547 INFO 70601 [egg-security] use xframe middleware
+2021-08-26 15:32:39,547 INFO 70601 [egg-security] use dta middleware
+2021-08-26 15:32:39,548 INFO 70601 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 15:32:39,553 INFO 70601 [egg:core] dump config after ready, 2ms
+2021-08-26 15:53:45,514 INFO 80619 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 15:53:45,514 INFO 80619 [egg:core] dump config after load, 6ms
+2021-08-26 15:53:45,555 INFO 80619 [egg-multipart] stream mode enable
+2021-08-26 15:53:45,595 INFO 80619 [egg-security] use methodnoallow middleware
+2021-08-26 15:53:45,595 INFO 80619 [egg-security] use noopen middleware
+2021-08-26 15:53:45,596 INFO 80619 [egg-security] use nosniff middleware
+2021-08-26 15:53:45,596 INFO 80619 [egg-security] use xssProtection middleware
+2021-08-26 15:53:45,596 INFO 80619 [egg-security] use xframe middleware
+2021-08-26 15:53:45,597 INFO 80619 [egg-security] use dta middleware
+2021-08-26 15:53:45,597 INFO 80619 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 15:53:45,602 INFO 80619 [egg:core] dump config after ready, 2ms
+2021-08-26 15:58:38,889 INFO 82995 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 15:58:38,889 INFO 82995 [egg:core] dump config after load, 6ms
+2021-08-26 15:58:38,930 INFO 82995 [egg-multipart] stream mode enable
+2021-08-26 15:58:38,970 INFO 82995 [egg-security] use methodnoallow middleware
+2021-08-26 15:58:38,970 INFO 82995 [egg-security] use noopen middleware
+2021-08-26 15:58:38,971 INFO 82995 [egg-security] use nosniff middleware
+2021-08-26 15:58:38,971 INFO 82995 [egg-security] use xssProtection middleware
+2021-08-26 15:58:38,972 INFO 82995 [egg-security] use xframe middleware
+2021-08-26 15:58:38,972 INFO 82995 [egg-security] use dta middleware
+2021-08-26 15:58:38,972 INFO 82995 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 15:58:38,978 INFO 82995 [egg:core] dump config after ready, 2ms
+2021-08-26 16:04:20,110 INFO 85695 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 16:04:20,111 INFO 85695 [egg:core] dump config after load, 5ms
+2021-08-26 16:04:20,153 INFO 85695 [egg-multipart] stream mode enable
+2021-08-26 16:04:20,191 INFO 85695 [egg-security] use methodnoallow middleware
+2021-08-26 16:04:20,191 INFO 85695 [egg-security] use noopen middleware
+2021-08-26 16:04:20,192 INFO 85695 [egg-security] use nosniff middleware
+2021-08-26 16:04:20,192 INFO 85695 [egg-security] use xssProtection middleware
+2021-08-26 16:04:20,193 INFO 85695 [egg-security] use xframe middleware
+2021-08-26 16:04:20,193 INFO 85695 [egg-security] use dta middleware
+2021-08-26 16:04:20,193 INFO 85695 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 16:04:20,198 INFO 85695 [egg:core] dump config after ready, 2ms
+2021-08-26 16:04:44,472 INFO 86013 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 16:04:44,473 INFO 86013 [egg:core] dump config after load, 6ms
+2021-08-26 16:04:44,515 INFO 86013 [egg-multipart] stream mode enable
+2021-08-26 16:04:44,562 INFO 86013 [egg-security] use methodnoallow middleware
+2021-08-26 16:04:44,563 INFO 86013 [egg-security] use noopen middleware
+2021-08-26 16:04:44,564 INFO 86013 [egg-security] use nosniff middleware
+2021-08-26 16:04:44,564 INFO 86013 [egg-security] use xssProtection middleware
+2021-08-26 16:04:44,564 INFO 86013 [egg-security] use xframe middleware
+2021-08-26 16:04:44,565 INFO 86013 [egg-security] use dta middleware
+2021-08-26 16:04:44,565 INFO 86013 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 16:04:44,572 INFO 86013 [egg:core] dump config after ready, 3ms
+2021-08-26 16:05:18,556 INFO 86304 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 16:05:18,556 INFO 86304 [egg:core] dump config after load, 6ms
+2021-08-26 16:05:18,596 INFO 86304 [egg-multipart] stream mode enable
+2021-08-26 16:05:18,640 INFO 86304 [egg-security] use methodnoallow middleware
+2021-08-26 16:05:18,640 INFO 86304 [egg-security] use noopen middleware
+2021-08-26 16:05:18,641 INFO 86304 [egg-security] use nosniff middleware
+2021-08-26 16:05:18,641 INFO 86304 [egg-security] use xssProtection middleware
+2021-08-26 16:05:18,642 INFO 86304 [egg-security] use xframe middleware
+2021-08-26 16:05:18,642 INFO 86304 [egg-security] use dta middleware
+2021-08-26 16:05:18,642 INFO 86304 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 16:05:18,648 INFO 86304 [egg:core] dump config after ready, 2ms
+2021-08-26 16:05:35,222 INFO 86474 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 16:05:35,222 INFO 86474 [egg:core] dump config after load, 5ms
+2021-08-26 16:05:35,261 INFO 86474 [egg-multipart] stream mode enable
+2021-08-26 16:05:35,302 INFO 86474 [egg-security] use methodnoallow middleware
+2021-08-26 16:05:35,302 INFO 86474 [egg-security] use noopen middleware
+2021-08-26 16:05:35,303 INFO 86474 [egg-security] use nosniff middleware
+2021-08-26 16:05:35,303 INFO 86474 [egg-security] use xssProtection middleware
+2021-08-26 16:05:35,303 INFO 86474 [egg-security] use xframe middleware
+2021-08-26 16:05:35,304 INFO 86474 [egg-security] use dta middleware
+2021-08-26 16:05:35,304 INFO 86474 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 16:05:35,309 INFO 86474 [egg:core] dump config after ready, 1ms
+2021-08-26 16:10:24,114 INFO 88788 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 16:10:24,115 INFO 88788 [egg:core] dump config after load, 7ms
+2021-08-26 16:10:24,190 INFO 88788 [egg-multipart] stream mode enable
+2021-08-26 16:10:24,264 INFO 88788 [egg-security] use methodnoallow middleware
+2021-08-26 16:10:24,265 INFO 88788 [egg-security] use noopen middleware
+2021-08-26 16:10:24,266 INFO 88788 [egg-security] use nosniff middleware
+2021-08-26 16:10:24,267 INFO 88788 [egg-security] use xssProtection middleware
+2021-08-26 16:10:24,267 INFO 88788 [egg-security] use xframe middleware
+2021-08-26 16:10:24,268 INFO 88788 [egg-security] use dta middleware
+2021-08-26 16:10:24,268 INFO 88788 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 16:10:24,274 INFO 88788 [egg:core] dump config after ready, 2ms
+2021-08-26 16:11:08,593 INFO 89167 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 16:11:08,593 INFO 89167 [egg:core] dump config after load, 6ms
+2021-08-26 16:11:08,635 INFO 89167 [egg-multipart] stream mode enable
+2021-08-26 16:11:08,678 INFO 89167 [egg-security] use methodnoallow middleware
+2021-08-26 16:11:08,679 INFO 89167 [egg-security] use noopen middleware
+2021-08-26 16:11:08,680 INFO 89167 [egg-security] use nosniff middleware
+2021-08-26 16:11:08,680 INFO 89167 [egg-security] use xssProtection middleware
+2021-08-26 16:11:08,680 INFO 89167 [egg-security] use xframe middleware
+2021-08-26 16:11:08,681 INFO 89167 [egg-security] use dta middleware
+2021-08-26 16:11:08,681 INFO 89167 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 16:11:08,687 INFO 89167 [egg:core] dump config after ready, 3ms
+2021-08-26 16:11:18,871 INFO 89271 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 16:11:18,872 INFO 89271 [egg:core] dump config after load, 6ms
+2021-08-26 16:11:18,916 INFO 89271 [egg-multipart] stream mode enable
+2021-08-26 16:11:18,969 INFO 89271 [egg-security] use methodnoallow middleware
+2021-08-26 16:11:18,969 INFO 89271 [egg-security] use noopen middleware
+2021-08-26 16:11:18,970 INFO 89271 [egg-security] use nosniff middleware
+2021-08-26 16:11:18,971 INFO 89271 [egg-security] use xssProtection middleware
+2021-08-26 16:11:18,971 INFO 89271 [egg-security] use xframe middleware
+2021-08-26 16:11:18,971 INFO 89271 [egg-security] use dta middleware
+2021-08-26 16:11:18,971 INFO 89271 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 16:11:18,977 INFO 89271 [egg:core] dump config after ready, 2ms
+2021-08-26 16:14:02,898 INFO 90556 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 16:14:02,899 INFO 90556 [egg:core] dump config after load, 6ms
+2021-08-26 16:14:02,939 INFO 90556 [egg-multipart] stream mode enable
+2021-08-26 16:14:02,977 INFO 90556 [egg-security] use methodnoallow middleware
+2021-08-26 16:14:02,977 INFO 90556 [egg-security] use noopen middleware
+2021-08-26 16:14:02,977 INFO 90556 [egg-security] use nosniff middleware
+2021-08-26 16:14:02,978 INFO 90556 [egg-security] use xssProtection middleware
+2021-08-26 16:14:02,978 INFO 90556 [egg-security] use xframe middleware
+2021-08-26 16:14:02,979 INFO 90556 [egg-security] use dta middleware
+2021-08-26 16:14:02,979 INFO 90556 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 16:14:02,989 INFO 90556 [egg:core] dump config after ready, 6ms
+2021-08-26 16:14:13,453 INFO 90651 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 16:14:13,453 INFO 90651 [egg:core] dump config after load, 7ms
+2021-08-26 16:14:13,502 INFO 90651 [egg-multipart] stream mode enable
+2021-08-26 16:14:13,556 INFO 90651 [egg-security] use methodnoallow middleware
+2021-08-26 16:14:13,556 INFO 90651 [egg-security] use noopen middleware
+2021-08-26 16:14:13,557 INFO 90651 [egg-security] use nosniff middleware
+2021-08-26 16:14:13,557 INFO 90651 [egg-security] use xssProtection middleware
+2021-08-26 16:14:13,557 INFO 90651 [egg-security] use xframe middleware
+2021-08-26 16:14:13,558 INFO 90651 [egg-security] use dta middleware
+2021-08-26 16:14:13,558 INFO 90651 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 16:14:13,564 INFO 90651 [egg:core] dump config after ready, 3ms
+2021-08-26 16:15:23,863 INFO 91294 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 16:15:23,864 INFO 91294 [egg:core] dump config after load, 6ms
+2021-08-26 16:15:23,903 INFO 91294 [egg-multipart] stream mode enable
+2021-08-26 16:15:23,943 INFO 91294 [egg-security] use methodnoallow middleware
+2021-08-26 16:15:23,944 INFO 91294 [egg-security] use noopen middleware
+2021-08-26 16:15:23,944 INFO 91294 [egg-security] use nosniff middleware
+2021-08-26 16:15:23,944 INFO 91294 [egg-security] use xssProtection middleware
+2021-08-26 16:15:23,945 INFO 91294 [egg-security] use xframe middleware
+2021-08-26 16:15:23,945 INFO 91294 [egg-security] use dta middleware
+2021-08-26 16:15:23,945 INFO 91294 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 16:15:23,950 INFO 91294 [egg:core] dump config after ready, 2ms
+2021-08-26 16:15:47,755 INFO 91496 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 16:15:47,755 INFO 91496 [egg:core] dump config after load, 6ms
+2021-08-26 16:15:47,797 INFO 91496 [egg-multipart] stream mode enable
+2021-08-26 16:15:47,838 INFO 91496 [egg-security] use methodnoallow middleware
+2021-08-26 16:15:47,839 INFO 91496 [egg-security] use noopen middleware
+2021-08-26 16:15:47,841 INFO 91496 [egg-security] use nosniff middleware
+2021-08-26 16:15:47,842 INFO 91496 [egg-security] use xssProtection middleware
+2021-08-26 16:15:47,844 INFO 91496 [egg-security] use xframe middleware
+2021-08-26 16:15:47,844 INFO 91496 [egg-security] use dta middleware
+2021-08-26 16:15:47,845 INFO 91496 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 16:15:47,851 INFO 91496 [egg:core] dump config after ready, 2ms
+2021-08-26 16:16:43,610 INFO 92032 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 16:16:43,610 INFO 92032 [egg:core] dump config after load, 7ms
+2021-08-26 16:16:43,665 INFO 92032 [egg-multipart] stream mode enable
+2021-08-26 16:16:43,700 INFO 92032 [egg-security] use methodnoallow middleware
+2021-08-26 16:16:43,701 INFO 92032 [egg-security] use noopen middleware
+2021-08-26 16:16:43,702 INFO 92032 [egg-security] use nosniff middleware
+2021-08-26 16:16:43,702 INFO 92032 [egg-security] use xssProtection middleware
+2021-08-26 16:16:43,702 INFO 92032 [egg-security] use xframe middleware
+2021-08-26 16:16:43,703 INFO 92032 [egg-security] use dta middleware
+2021-08-26 16:16:43,703 INFO 92032 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 16:16:43,709 INFO 92032 [egg:core] dump config after ready, 2ms
+2021-08-26 16:18:28,320 INFO 92855 [egg:logger] init all loggers with options: {"dir":"/Users/xiaobao/project/midway-project/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-26 16:18:28,321 INFO 92855 [egg:core] dump config after load, 5ms
+2021-08-26 16:18:28,369 INFO 92855 [egg-multipart] stream mode enable
+2021-08-26 16:18:28,455 INFO 92855 [egg-security] use methodnoallow middleware
+2021-08-26 16:18:28,456 INFO 92855 [egg-security] use noopen middleware
+2021-08-26 16:18:28,456 INFO 92855 [egg-security] use nosniff middleware
+2021-08-26 16:18:28,457 INFO 92855 [egg-security] use xssProtection middleware
+2021-08-26 16:18:28,458 INFO 92855 [egg-security] use xframe middleware
+2021-08-26 16:18:28,458 INFO 92855 [egg-security] use dta middleware
+2021-08-26 16:18:28,459 INFO 92855 [egg-security] compose 6 middlewares into one security middleware
+2021-08-26 16:18:28,466 INFO 92855 [egg:core] dump config after ready, 2ms
